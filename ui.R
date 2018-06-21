@@ -22,7 +22,7 @@ shinyUI(fluidPage(
                        "It appears that the first two characters are always 0, and the third holds the actual score.  ",
                        "If that turns out not to be the case, the results you get may be wrong.")),
         tags$li("Questions?  Comments?  Email ", tags$a(href="mailto:pdebarros@greentechhigh.org","pdebarros@greentechhigh.org"),"."),
-        tags$li("Want the source code? ", tags$a(href="mailto:pdebarros@greentechhigh.org","Click here"),".")
+        tags$li("Want the source code? ", tags$a(href="https://github.com/debarros/GlobalTransitionRegents","Click here"),".")
       )
       
     ) # /mainPanel
